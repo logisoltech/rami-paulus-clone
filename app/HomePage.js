@@ -79,7 +79,7 @@ export default function HomePage() {
         <section id="hero" className="border-b border-border bg-white pt-16">
           <Container className="flex min-h-[calc(100vh-4rem)] flex-col justify-start pt-10 pb-20 lg:pt-12 lg:pb-28">
             <p className="reveal-hero mb-8 font-sans text-[11px] font-normal uppercase tracking-[0.18em] text-zinc-900">
-              Environmental Infrastructure for ABA
+              Environmental Infrastructure for ABA Test
             </p>
 
             <h1 className="font-hero-georgia reveal-hero w-full text-[3.75rem] font-normal leading-[0.90] tracking-[-0.06em] text-black sm:text-8xl lg:text-[7rem] lg:leading-[0.88]">
